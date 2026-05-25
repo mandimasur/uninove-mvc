@@ -1,0 +1,9 @@
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/rpswa.dswa.cache.json
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/uninove.web.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/uninove.web.AssemblyInfoInputs.cache
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/uninove.web.AssemblyInfo.cs
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/uninove.web.csproj.CoreCompileInputs.cache
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/uninove.web.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/uninove.web.RazorAssemblyInfo.cache
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/uninove.web.RazorAssemblyInfo.cs
+/workspaces/uninove-mvc/uninove.web/obj/Debug/net10.0/uninove.web.sourcelink.json
